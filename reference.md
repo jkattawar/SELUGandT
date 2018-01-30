@@ -11,3 +11,4 @@ git clone
 ```
 git clone https://github.com/Paleantology/SELUGandT.git
 ```  
+mkdir : creates a new directory with a name of your choice
